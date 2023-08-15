@@ -2,9 +2,9 @@
 
 A tabular gender selector.
 
-Based on [this reddit post][post]; meant as a lighthearted dig at the
-[various bad gender selection forms][badform] that corporations keep
-coming up with. (Why do they even need to know my gender?)
+Based on [this reddit post][post]; meant partially as a lighthearted dig
+at the [various bad gender selection forms][badform] that corporations
+keep coming up with. (Why do they even need to know my gender?)
 
 ![](./public/gender-selector.webp)
 
